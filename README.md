@@ -1,4 +1,4 @@
-![image](https://github.com/BharanikumaranM/CryptoCurrency-Investigation-Toolkit/assets/104621297/56151a88-7d11-485d-b505-a2f22df48304)# CryptoCurrency-Investigation-Toolkit
+# CryptoCurrency-Investigation-Toolkit
 The goal of the project is to create a tool that can differentiate between multiple different crypto currencies.
 Different cryptocurrencies runs their own variant of the Cryptographic hashing algorithm that are used to generate 
 keys/addresses for a particular cryptocurrency. 
