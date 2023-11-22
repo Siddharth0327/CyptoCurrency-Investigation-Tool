@@ -26,7 +26,7 @@ def check_status(data):
 
 def main():
     html_temp = """
-    <div style="background-color:blue; padding:10px">
+    <div style="background-color:black; padding:10px">
     <h2 style="color:white;text-align:center;">INDIGENOUS CRYPTOCURRENCY INVESTIGATION TOOLKIT</h2>
     </div>
     """
@@ -41,11 +41,9 @@ def main():
     data.append(len(private_key))
     data.append(len(public_key))
     result=""
-    if st.button("CHECK STATUS"):
+    if st.button("Predict"):
         result = check_status(data)
-    st.success("STATUS: {}".format(result))
-    if st.button("About"):
-        st.text("")  
+    st.success("Prediction: {}".format(result))
 
 if __name__ == '__main__':
     main()
