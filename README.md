@@ -8,7 +8,7 @@ write a Machine Learning algorithm which can predict the cryptocurrency given th
 The technologies that will be used for this study are:
 Libraries used: NumPy, Pandas, Matplotlib , pickle and Scikit-learn
 Wallet Scripts : Ether, Doge, Bitcoin and Litecoin. 
-Asymmetric Cryptographic Algorithms: ECDSA,Varaints of ECDSA , etc..,
+Asymmetric Cryptographic Algorithms: ECDSA,Variants of ECDSA , etc..,
 Local Deployment : Stream-lit
 
 ![image](https://github.com/BharanikumaranM/CryptoCurrency-Investigation-Toolkit/assets/104621297/af3fc4e8-8c06-4a79-a4f4-fbfe56399fcf)
